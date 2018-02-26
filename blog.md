@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum lectus 
 
 Mauris vel aliquam magna, eu scelerisque quam. Pellentesque feugiat, dui ac fringilla elementum, velit ipsum iaculis erat, nec ornare enim ipsum quis ipsum. Ut blandit, ipsum a ullamcorper tincidunt, purus arcu fermentum est, ac consequat erat mauris sed ex. Morbi placerat, lorem non lobortis placerat, turpis tellus scelerisque eros, ut dictum nisl magna ac lorem. Vestibulum nec diam at eros tincidunt egestas a sed metus. Quisque id enim at eros commodo convallis nec id nisi. Duis lobortis enim at velit sollicitudin, ut blandit libero molestie. Donec nunc nunc, eleifend ut leo sed, sodales sodales nunc. Ut vel diam vel sapien semper porta vel vitae magna.
 
-[3d viz](d3/index.html)
+[data visualization](d3/index.html)
 
 <iframe style="width: 1024px; height: 768px;" src="http://iascatbrock.github.io/IASC-2P02/d3/index.html"></iframe?
 
